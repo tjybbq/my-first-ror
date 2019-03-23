@@ -1,2 +1,2 @@
-# my-first-ror
+# ruby_on_rails
 RubyOnRails
